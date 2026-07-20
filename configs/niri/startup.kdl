@@ -1,0 +1,8 @@
+spawn-sh-at-startup "~/.config/waybar/scripts/launch.sh"
+spawn-at-startup "nm-applet"
+spawn-at-startup "awww-daemon"
+spawn-at-startup "awww img ~/Pictures/Wallpapers/nord/29.jpg"
+spawn-at-startup "dunst"
+spawn-sh-at-startup "gammastep -l -6.2:106.8 -t 5500:4000"
+spawn-at-startup "xwayland-satellite"
+spawn-at-startup "~/.local/bin/sleep.sh"
